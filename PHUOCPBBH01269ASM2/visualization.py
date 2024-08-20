@@ -1,15 +1,15 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Load the CSV files from your local machine
+# Load the CSV files 
 customer_data = pd.read_csv('customer_data.csv')
-sale_data = pd.read_csv('C:/Users/pbphu/Downloads/sale_data.csv')
+sale_data = pd.read_csv('sale_data.csv')
 product_detail_data = pd.read_csv('product_detail_data.csv')
 product_group_data = pd.read_csv('product_group_data.csv')
 market_trend_data = pd.read_csv('market_trend_data.csv')
 website_access_data = pd.read_csv('website_access_data.csv')
 
-# Example 1: Bar Chart - Total Amount by Product Group
+# Bar Chart - Total Amount by Product Group
 product_sales = sale_data.merge(product_detail_data, on='product_id')
 product_sales_grouped = product_sales.groupby('product_group_id')['total_amount'].sum().reset_index()
 product_sales_grouped = product_sales_grouped.merge(product_group_data, on='product_group_id')
@@ -23,7 +23,7 @@ plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 plt.show()
 
-# Example 2: Line Chart - Sales Over Time
+# Line Chart - Sales Over Time
 sale_data['sale_date'] = pd.to_datetime(sale_data['sale_date'])
 sales_over_time = sale_data.groupby(sale_data['sale_date'].dt.to_period('M'))['total_amount'].sum()
 
@@ -36,7 +36,7 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 
-# Example 3: Pie Chart - Market Trend Impact Distribution
+# Pie Chart - Market Trend Impact Distribution
 market_trend_impact = market_trend_data['impact_level'].value_counts()
 
 plt.figure(figsize=(8, 8))
@@ -45,7 +45,7 @@ plt.title('Market Trend Impact Distribution')
 plt.tight_layout()
 plt.show()
 
-# Example 4: Scatter Plot - Relationship Between Discount and Total Amount
+# Scatter Plot - Relationship Between Discount and Total Amount
 plt.figure(figsize=(10, 6))
 plt.scatter(sale_data['discount'], sale_data['total_amount'])
 plt.title('Relationship Between Discount and Total Amount')
@@ -55,7 +55,7 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 
-# Example 5: Donut Chart - Payment Method Distribution
+# Donut Chart - Payment Method Distribution
 payment_methods = sale_data['payment_method'].value_counts()
 
 plt.figure(figsize=(8, 8))
