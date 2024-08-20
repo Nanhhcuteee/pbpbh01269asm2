@@ -1,0 +1,601 @@
+sale_id,customer_id,product_id,sale_date,quantity,total_amount,payment_method,shipping_address,billing_address,discount,market_trend_id
+822,498,816,2023-04-05,7,828.47,Credit Card,"6995 Lisa Mills
+South Charlotte, SC 53612","04828 Madison Knoll Apt. 506
+East Lindsaymouth, MS 18922",2.09,861
+68,353,618,2021-08-13,4,1251.96,PayPal,"147 Gregory Springs
+Roweton, NJ 59257","38939 Walters Station
+East Dannyville, TN 46184",22.12,647
+267,672,40,2023-03-14,2,1832.34,Credit Card,"3438 Carl Fort Apt. 242
+Coxtown, VA 76134","519 Richards Row Apt. 460
+West Kevinview, WI 86359",61.47,838
+511,353,664,2022-02-17,2,1673.32,Credit Card,"50620 Schwartz Rest
+North Patricia, MN 42725","57842 Mills Wall Apt. 379
+Port Seanstad, CO 57350",84.96,249
+708,843,573,2021-10-25,8,786.17,Credit Card,"519 Jones Trace Apt. 956
+Davidstad, GA 32316","0362 Henry Hills
+North Kristyville, OK 10159",44.48,426
+947,799,480,2022-10-01,6,1542.14,Bank Transfer,"751 Bennett Radial Suite 914
+Port Alexandraborough, DC 61006","32345 Chelsea Highway
+Savageport, NE 88089",50.36,865
+152,251,618,2020-11-29,4,1277.86,Credit Card,"4741 Leslie Orchard Suite 945
+Colonmouth, DC 29991","94267 Lauren Knolls
+Whitemouth, NM 33794",11.26,854
+430,696,564,2022-11-09,6,1951.29,PayPal,"38503 Scott Dam Apt. 886
+East Jamesburgh, IL 06283","4077 Ryan Bridge Apt. 800
+West Lisa, AK 10124",7.38,648
+960,498,252,2022-09-25,5,1051.44,Credit Card,"761 Kathleen Camp
+Brownmouth, MT 84039","445 Steven Ways Apt. 378
+Johnsonberg, VA 33256",53.08,479
+981,892,670,2020-02-25,4,1231.18,Credit Card,"1240 Davis Island
+Ashleyberg, LA 81123","10694 Alexander Valleys
+Port Katherineberg, VT 93393",26.9,491
+586,299,175,2024-01-29,3,869.07,PayPal,"9013 Miles Course Apt. 514
+Smithburgh, WY 57418","536 Jeffrey Land
+Lake Maria, DE 35638",83.88,98
+642,498,593,2023-03-29,5,1821.31,Bank Transfer,"436 Higgins Rapids Suite 195
+Fowlermouth, WI 70028","4081 Ruiz Road Apt. 808
+East Krista, AK 21228",66.4,61
+67,173,744,2022-03-05,7,1967.1,PayPal,"7633 Perez Cliff Suite 968
+Romerostad, UT 14850","22590 Diane Harbors
+New Sarahmouth, NJ 51373",17.81,225
+998,353,785,2021-02-28,4,234.46,Bank Transfer,"158 Amanda Wells Apt. 602
+Josephborough, SC 87192","87179 Perez Villages Apt. 451
+Hannahport, IN 31360",86.41,838
+715,251,791,2020-07-09,10,82.45,Credit Card,"5963 Robinson Street
+East Thomas, SD 15631","7127 Jackie Mill Apt. 463
+New Rachelburgh, WY 74639",6.21,22
+408,353,11,2021-11-22,7,1319.4,PayPal,"2302 Cooke Underpass Apt. 304
+New Matthew, NJ 09558","06991 Stanley Harbor Suite 877
+New Rebecca, NH 52917",37.16,809
+528,927,614,2022-11-08,4,912.34,Bank Transfer,"57712 Maria Hill Apt. 434
+Port Michaelton, NH 99656","42786 Michael Falls
+Josephmouth, DE 48113",58.93,610
+282,299,51,2023-06-11,9,843.22,Bank Transfer,"609 Simmons Village
+Simsburgh, DC 64230","Unit 5061 Box 9030
+DPO AP 57155",40.08,865
+212,892,800,2023-11-28,10,1994.04,Bank Transfer,"4452 Cohen Turnpike Apt. 466
+Gomezhaven, MT 53229","03551 Daniel Corners
+North Robertfort, NV 72184",13.4,827
+575,299,585,2020-10-04,9,1460.85,Credit Card,"15008 Bonilla Squares
+Gillespiehaven, CA 25422","269 Ana Forges
+Kellyland, NV 84784",54.8,809
+681,892,555,2020-01-09,1,987.51,PayPal,"9759 Yu Freeway Apt. 770
+Brandyport, NV 35405","150 Kim Hills
+Chadhaven, MO 61363",67.37,956
+204,433,652,2022-08-31,9,1748.45,Credit Card,"75599 Smith Valley Apt. 640
+Kristaberg, MA 33678","3026 William Extensions Apt. 307
+Lake Cheryl, MT 88236",81.92,335
+713,672,589,2021-08-30,5,745.91,PayPal,"3333 Calvin Hills Suite 674
+Mcfarlandfurt, RI 60755","Unit 6935 Box 9300
+DPO AP 08886",19.17,566
+141,672,996,2020-10-01,6,521.73,PayPal,"549 Bryan Light Apt. 801
+West Brianmouth, MN 34534","USNV Rich
+FPO AE 40723",61.24,153
+546,799,919,2024-02-10,7,53.77,Bank Transfer,"350 Berry Dam
+South Feliciabury, NH 44644","2779 Michael Crossing Suite 663
+Alyssachester, ND 35709",20.58,886
+105,931,230,2022-10-19,4,809.97,PayPal,"674 Jeffrey Springs
+Port Desireeside, RI 88286","558 Victoria Fork
+Port Bernardbury, OK 76839",3.43,273
+354,173,652,2020-10-16,5,1927.96,Credit Card,"7230 Richardson Inlet
+Lisachester, DC 74543","1723 Bush Springs
+Port Travismouth, KY 09130",85.03,352
+673,251,383,2023-07-11,6,1569.16,Bank Transfer,"Unit 3152 Box 7179
+DPO AE 90227","59229 Shelton Springs Suite 642
+Stephanieshire, WV 19014",6.61,33
+429,892,744,2023-04-13,6,395.98,Credit Card,"3690 Marshall Freeway Suite 756
+Sarahmouth, TX 33046","88598 Noah Freeway
+East Prestonhaven, NV 44175",96.37,838
+531,931,454,2020-09-18,2,1537.29,Bank Transfer,"56784 Dennis Plains Apt. 284
+East James, IL 54908","180 Amy Spurs
+Johnsontown, NV 56685",29.4,153
+208,173,791,2022-03-07,7,125.05,PayPal,"8776 Anita Square Apt. 422
+North Monicastad, TX 96437","8935 Norman Mission
+Brownton, OH 77482",19.43,83
+881,843,778,2021-07-21,7,828.38,PayPal,"3668 Gregory Extension Suite 556
+West Danielleburgh, WA 23353","4900 Richmond Roads
+Robertmouth, AZ 06790",93.35,41
+37,353,58,2023-11-15,5,1883.1,Bank Transfer,"2842 Simmons Prairie
+Clarkstad, AL 63602","806 Trevor Ramp Apt. 243
+Carrilloport, TX 69818",26.51,153
+336,353,545,2023-04-27,2,1572.21,Credit Card,"PSC 9151, Box 7436
+APO AP 37114","030 Janet Spurs
+East Andrew, HI 17220",5.59,886
+394,931,337,2023-07-23,5,877.6,Credit Card,"99352 Scott Light
+South Cynthiaside, SD 15113","0177 Jorge Squares Suite 189
+Christopherside, SD 74987",46.56,909
+925,672,910,2020-06-28,8,1810.15,Credit Card,"228 Trevor Walks
+Hendersonville, NY 48662","56476 Wilson Forest
+Port Kristinmouth, ME 62856",17.46,321
+557,299,189,2022-04-02,1,1385.12,Bank Transfer,"USNV Faulkner
+FPO AP 83403","308 Green Common
+Jeremybury, KS 03857",50.75,125
+719,498,64,2023-07-02,10,1283.07,Bank Transfer,"2799 Gibbs Gardens
+Derekton, OH 15206","23856 Hampton Walks
+Samuelmouth, HI 43974",73.62,285
+655,299,154,2020-01-05,8,327.37,PayPal,"4503 Klein Ways
+Carrieberg, ME 45262","5376 Douglas Squares Apt. 330
+New Logan, GA 05786",63.58,539
+621,672,778,2020-10-04,5,1158.49,Credit Card,"48748 Todd Pine
+Tommymouth, DE 24322","Unit 0244 Box 7193
+DPO AA 34720",87.7,318
+395,116,454,2022-03-07,5,1018.27,Bank Transfer,"PSC 4633, Box 7893
+APO AA 75446","Unit 2678 Box 3234
+DPO AE 36066",46.48,135
+121,799,48,2022-04-29,8,433.12,Credit Card,"37869 Myers Center Suite 594
+North Deniseport, MT 52077","056 Ramsey Estates
+North Kirk, ND 79515",9.47,153
+908,498,391,2023-12-28,3,1460.63,PayPal,"00777 Lang Field
+Gonzalezview, NM 76690","945 Wang Club Apt. 218
+Port Joanport, MS 36503",29.51,854
+279,892,283,2021-07-02,7,877.2,Credit Card,"PSC 0675, Box 4259
+APO AA 64794","40039 Adams River Suite 400
+East Williamburgh, ND 24660",34.99,22
+583,927,768,2022-09-12,10,1991.57,PayPal,"4836 Dominguez Burg
+Flowersport, KS 41230","5488 James Springs
+South Juan, AZ 85455",78.82,194
+261,173,879,2023-11-16,5,1685.81,Credit Card,"370 Michael Ranch
+Port Geoffrey, HI 39875","757 Parks Meadow Suite 441
+Bakermouth, AK 70775",11.97,838
+287,672,311,2022-02-13,8,839.9,PayPal,"61459 Hughes Ville
+Dudleyport, AL 50112","8390 Obrien Port Suite 702
+South Clayton, WI 87069",69.6,721
+941,251,11,2023-10-17,2,1401.17,Bank Transfer,"35531 Ryan Lights Apt. 846
+Brianville, NC 32966","6291 John Stream
+West Mary, RI 20818",64.54,125
+250,892,523,2020-05-24,1,80.46,Bank Transfer,"405 Campbell Radial
+Lake Johnmouth, NM 06840","85517 West Street
+New Jon, UT 67938",83.7,721
+930,353,263,2021-02-24,5,381.48,Credit Card,"24204 Michael Lodge
+North Isaac, MN 75016","668 Anthony Harbors
+Johnsonstad, NY 98829",2.31,257
+737,799,800,2024-02-16,7,1055.13,Credit Card,"02898 Karen Underpass
+Alisonborough, TN 85071","8914 Sheila Shore Apt. 738
+Lake Richard, ND 46732",95.38,839
+726,173,593,2024-02-02,8,1306.31,Credit Card,"PSC 6351, Box 8752
+APO AE 74951","27725 Taylor Field
+New Deborahport, WA 25427",2.95,33
+775,116,48,2021-04-04,10,1472.53,PayPal,"65884 Marie Well
+North Anthonyshire, WV 61547","248 Kurt Row
+Jacobtown, NJ 20453",76.34,352
+701,843,504,2022-02-13,9,90.5,Credit Card,"119 Anthony Track Suite 119
+Williamsstad, IL 83877","825 Meyers Mews
+Schmidtville, OK 95364",90.11,988
+471,892,326,2020-07-11,4,322.18,Bank Transfer,"84986 Cherry Coves Suite 268
+Lake Wesleyton, SC 71744","Unit 6611 Box 6923
+DPO AE 94425",82.04,320
+432,696,169,2020-03-27,6,1357.92,Credit Card,"865 Jones Crossroad Apt. 801
+Campbellchester, SC 96546","43785 Bowen Harbors Apt. 084
+New Nicolefurt, WY 07422",68.13,909
+316,640,579,2021-09-23,9,1271.23,Credit Card,"51777 Aaron Fork Apt. 158
+Parrishport, ID 39827","24566 Smith Terrace
+Kathleenton, CO 64643",66.46,352
+812,640,670,2024-06-19,2,1125.71,Bank Transfer,"491 Christopher Shore Apt. 514
+South Belinda, WA 38743","595 Miller Union
+West Lauren, AL 54223",55.62,874
+92,931,914,2020-06-20,5,484.59,PayPal,"700 Nathan Lake
+Lake Maryhaven, CA 15025","827 Arthur Curve Suite 552
+New Melaniestad, NM 01934",21.74,61
+289,672,101,2023-09-22,2,1995.8,Bank Transfer,"6854 Chad Dam
+Rodriguezmouth, AK 37886","7066 Carpenter Stravenue
+Schneiderview, CT 07124",51.34,98
+764,927,444,2023-06-12,7,1436.35,PayPal,"833 Shepard Forest Apt. 409
+East Corey, PA 29252","16742 Huff Rapid
+North Jeffrey, RI 97322",4.79,868
+495,696,64,2024-03-22,9,910.22,Bank Transfer,"USNS Parker
+FPO AP 61878","39054 Charlotte Coves Apt. 365
+Lake Renee, WA 37314",67.48,220
+256,498,564,2020-11-07,1,1961.48,PayPal,"Unit 9310 Box 9521
+DPO AA 26836","52083 Richard Roads Suite 011
+Wilsonton, MI 24494",6.27,967
+976,433,964,2024-05-15,2,422.4,PayPal,"98396 Huff Circle Apt. 770
+Perezhaven, WI 57745","939 Hill Loaf Apt. 534
+Charlesberg, KY 38615",56.11,244
+736,299,158,2023-10-22,9,366.75,Credit Card,"19248 Carter Greens Suite 577
+North Nicholas, NC 88398","587 Gray Drive
+New Jilltown, MO 71296",9.12,260
+226,843,52,2023-09-16,9,357.21,PayPal,"848 Frank Village
+Whiteburgh, OH 64332","34204 Williams Land Suite 193
+East Nathanstad, WV 34667",17.36,18
+510,696,421,2020-01-30,7,828.56,Credit Card,"008 Carol Hill
+New Brittanyville, MI 80295","113 White Roads Suite 797
+Michaelhaven, WI 06846",50.02,318
+656,433,879,2022-12-03,4,633.56,PayPal,"2785 Hayes Summit Suite 903
+Port Joel, MN 35836","757 Virginia Trafficway
+Amyburgh, KS 72524",65.03,352
+769,799,991,2020-05-16,8,453.64,Bank Transfer,"860 Mary Square Apt. 514
+Tiffanybury, MD 41918","794 Long Prairie Suite 972
+West Raymond, AK 02505",41.38,257
+556,116,589,2024-05-01,7,517.2,Bank Transfer,"73200 Sweeney Mall
+East Lauren, AZ 08424","954 Dana Ways Apt. 853
+South Angelamouth, MO 71800",66.34,249
+524,892,132,2022-06-17,2,1229.39,Bank Transfer,"3761 Dennis Mountain Apt. 813
+Mccormickside, NV 30757","2538 William Lodge
+Paulberg, MT 02812",13.36,98
+950,433,137,2020-09-30,2,331.75,Bank Transfer,"366 Howard Trail
+Fosterland, DC 28517","763 Hughes Lodge Apt. 127
+West Bryanfurt, SC 34124",38.98,503
+246,498,573,2022-10-10,3,713.68,Bank Transfer,"5446 Fox Island Suite 236
+Claudiafort, IA 73812","66143 Sheena Isle
+Victoriaberg, KS 18965",97.85,321
+70,173,326,2024-01-05,9,1684.29,PayPal,"422 Daugherty Road Suite 125
+Port Christopher, MD 31980","73285 Robin Avenue Suite 329
+South Annaport, PA 05582",98.17,721
+39,251,11,2022-07-30,7,59.47,Credit Card,"PSC 8145, Box 6022
+APO AE 48518","39093 Harper Vista Apt. 943
+Hansonshire, OK 60507",98.87,18
+102,892,768,2022-05-12,6,1917.04,Credit Card,"014 Stewart Isle Suite 055
+Port Amandaberg, TN 70233","772 Moore Highway Apt. 020
+Harrisonland, TN 49932",80.02,180
+668,433,752,2021-11-28,1,1579.68,Bank Transfer,"1435 Henry Orchard Suite 349
+Sosaview, GA 22224","9893 Thomas Vista
+Boydland, AL 88315",99.49,18
+486,892,137,2023-02-10,5,1537.56,Credit Card,"6669 Conway Mall Suite 987
+Harrisburgh, GA 69005","6375 Edwards Harbor
+South Katherine, MA 94508",94.41,539
+472,640,638,2024-01-31,6,1204.87,Credit Card,"USNS Ho
+FPO AP 32067","7171 Gregory Summit
+Lake Kevinbury, DE 54765",41.06,409
+190,892,791,2023-01-27,4,783.2,Bank Transfer,"70882 Lisa Way Apt. 530
+East Davidburgh, TX 51118","2293 Brown Mission
+Palmerstad, ND 88771",44.97,23
+110,353,573,2022-04-16,2,202.6,Credit Card,"881 Stephen Locks
+Jeffreyside, DC 11634","126 Santos Expressway Apt. 662
+New Robertstad, NV 36328",60.7,493
+79,843,725,2020-04-14,3,591.32,PayPal,"73278 Kaitlyn Field
+East Frank, OK 42976","639 Jose Plaza Suite 947
+New Heidiburgh, OK 17275",85.2,249
+372,696,31,2023-04-10,2,1581.93,PayPal,"8980 Lisa Wall
+Port Vincent, WA 98730","26982 Richards Parkways Suite 143
+Timothyborough, AK 53650",45.75,1000
+75,640,791,2023-05-11,9,163.31,Bank Transfer,"149 Jason Lights
+West Angelaland, LA 26367","4269 Hart Flat Apt. 608
+Bryanthaven, SC 81934",93.34,839
+805,892,537,2022-03-10,7,213.26,Bank Transfer,"395 Petty Summit Suite 201
+Amybury, NY 72106","9079 Erica Forks
+Ronnieport, OH 98466",5.06,865
+928,799,872,2023-03-30,4,1660.48,Bank Transfer,"PSC 4696, Box 6635
+APO AA 87889","USNV Fischer
+FPO AA 06520",39.82,493
+171,843,910,2021-09-07,10,714.73,Bank Transfer,"87064 Jessica Crest Suite 987
+Port Kaylahaven, VT 73521","258 Hogan Mountain
+Raymondborough, CA 06848",74.6,809
+88,299,436,2020-08-26,4,878.67,Bank Transfer,"483 Jackson Square Apt. 436
+Belltown, IL 58469","54995 Charles Vista
+Lake Brandonside, AZ 16993",30.0,285
+233,672,148,2020-10-24,1,1542.55,PayPal,"91653 Nicholas Centers
+Rasmussenchester, TX 04714","584 Steve Mountains Suite 061
+South Genebury, VA 75607",66.55,951
+241,498,564,2023-11-28,10,520.72,PayPal,"45961 Avery Turnpike Suite 127
+Charlottemouth, IA 98638","57507 Wise Knoll Apt. 778
+Lake Jamesmouth, ND 64195",21.21,539
+821,672,964,2020-07-09,1,75.94,Bank Transfer,"399 Zachary Pines Apt. 832
+Port Cynthiaville, OR 42826","6153 Lopez Forks
+South Tonya, MD 37142",50.07,440
+617,892,283,2022-03-16,9,443.79,PayPal,"77305 John Stream Suite 914
+Richardville, VA 16506","5452 Miller Plains
+Johnsontown, HI 40983",84.71,180
+804,931,326,2024-01-16,7,751.75,Credit Card,"306 Jessica Mews
+Barajashaven, MS 71172","PSC 6350, Box 8628
+APO AP 51640",70.54,312
+144,799,56,2021-02-01,6,101.11,Credit Card,"630 Howell Dale
+Jonathanfort, ND 50439","8837 Ronnie Trail Suite 558
+Lake Frankville, KS 28513",35.15,153
+461,843,10,2023-06-02,2,332.45,Bank Transfer,"77741 Conner Rest Suite 901
+Lake Christopher, WA 90597","8455 Jennifer Junction
+Lake Kenneth, HI 41907",19.88,409
+848,640,40,2021-12-21,10,1454.3,PayPal,"3323 Snyder Spring Apt. 692
+Jillianstad, AL 37237","8934 Jennifer Fall Suite 981
+Port Joseph, AZ 60876",77.38,944
+379,696,445,2022-10-31,10,1883.9,Credit Card,"398 Ramos Garden
+Alishaport, NC 18259","606 Burton Crest Suite 480
+Brookeside, MN 64788",3.72,479
+397,799,56,2021-05-30,1,371.41,Bank Transfer,"557 Denise Lake Apt. 290
+New Richardmouth, RI 85335","Unit 0844 Box 0202
+DPO AA 25147",44.06,426
+867,173,545,2024-06-05,8,1117.27,Bank Transfer,"75937 Rose Mountain
+Davidhaven, IL 60852","91128 James Ranch Apt. 906
+Lake Stephentown, IL 00899",60.74,809
+756,672,787,2022-02-14,10,647.44,Bank Transfer,"12347 Lee Radial
+Daniellehaven, VT 90599","27392 Randy Forest Suite 375
+Port Christopher, AK 92018",91.34,485
+669,696,10,2021-06-03,10,952.29,Bank Transfer,"6260 Angela Park
+North Hannah, MD 62824","103 Benson Radial
+Berryton, NY 95842",39.94,909
+505,173,641,2023-01-19,4,1299.47,Credit Card,"66204 Vazquez Cove Apt. 886
+East Paul, GA 16264","0377 Anthony Shoal Apt. 820
+Raymondhaven, OH 65445",47.66,30
+232,116,917,2023-07-19,8,1242.82,Bank Transfer,"615 Clifford Ferry Apt. 544
+Davidport, NM 81393","755 Sanchez Rapid
+Lake Kyle, ID 16826",44.25,335
+837,931,445,2024-07-09,1,883.37,PayPal,"429 Rachel Plaza Apt. 934
+Kellyhaven, OK 31627","812 Michael Fords
+Kimfurt, NJ 92879",81.16,688
+179,696,991,2024-07-04,8,1016.67,PayPal,"759 Ruth Street Suite 947
+South Wendy, TX 40579","3908 Willie Brooks Apt. 162
+Rossbury, ND 63561",71.22,409
+344,843,523,2023-07-26,6,275.03,Credit Card,"9319 Chapman Inlet Apt. 135
+West Sandra, WI 45812","6319 Walter Camp Apt. 849
+West Austin, TX 98365",24.35,257
+899,892,932,2020-05-04,7,468.43,PayPal,"PSC 7923, Box 1939
+APO AA 62741","07178 Brown Mount
+Pottstown, UT 45637",56.05,318
+128,799,932,2021-05-10,1,549.5,Credit Card,"625 Lewis Harbors Suite 842
+North Jessica, NH 96985","2858 Edwin Divide Apt. 929
+Snyderfurt, IN 42854",57.79,350
+887,353,555,2020-08-25,4,1772.13,Credit Card,"7790 Nguyen Vista Suite 917
+Harringtonview, NH 73541","760 Jessica Plains Apt. 090
+Louisbury, SC 79930",25.65,352
+348,843,11,2023-09-01,9,1837.24,Bank Transfer,"540 Jennifer Place Suite 829
+East Logan, PA 32089","7837 Mary Junction
+West Sara, IA 56970",71.66,135
+501,353,768,2024-02-05,9,633.34,Credit Card,"524 Drew Hills
+Brandyside, NV 11887","70521 Conner Flat Suite 707
+Daltonview, MN 22132",36.54,98
+689,116,56,2023-07-18,2,1065.44,PayPal,"753 Debbie Spurs
+Port Kevin, MO 96112","3443 Mercedes Groves Suite 390
+Port Garrett, DC 13369",22.52,465
+542,672,137,2021-01-02,5,1157.34,PayPal,"22983 Maria Trafficway Suite 628
+Knightshire, AR 41841","144 James Coves
+West Taylor, MA 64877",11.84,273
+364,927,444,2022-12-22,7,624.07,PayPal,"65707 Martinez Neck
+Lake Jason, CA 31203","4721 Michael Plain
+Wardton, MI 16874",85.55,906
+478,927,555,2021-11-04,5,651.37,PayPal,"579 Christopher Lights
+Chamberston, NH 70188","5251 Yoder Knoll
+East Anne, NY 49303",91.52,244
+851,892,712,2023-10-27,6,1899.92,Credit Card,"66368 William Hills Suite 621
+Hodgeshire, WI 66345","216 Elizabeth Falls
+New Heather, NE 25373",45.69,294
+695,892,148,2021-06-23,2,1292.73,PayPal,"81367 Pamela Inlet Suite 718
+Davidchester, VA 84003","01244 Nicholas Fork
+South Laurafort, CO 72890",84.66,838
+895,799,589,2020-09-28,5,1112.66,Bank Transfer,"60025 Moore Ports Apt. 640
+Richardton, UT 07179","810 Harding Neck
+Paigeburgh, CA 37980",62.67,485
+443,498,870,2023-08-17,8,1403.43,PayPal,"17384 Duane Isle
+Andrewburgh, OK 47228","19378 Tracy Green Apt. 516
+West Tracyberg, AL 69296",24.58,838
+818,927,704,2022-10-22,6,1756.25,Bank Transfer,"60689 Patterson Drive
+Schroedershire, AK 73581","2899 Gloria Parks
+New Lynn, NV 71109",91.31,426
+26,696,283,2020-07-10,5,239.92,PayPal,"204 Gary Valleys
+Port Anthonytown, AR 47708","33367 Ronald Pike
+West Cassandramouth, IL 25408",42.62,294
+591,116,593,2020-12-31,6,1779.37,Credit Card,"981 Thomas Gardens Apt. 804
+Port Vicki, SC 45585","32241 Hall Hollow Apt. 783
+Chavezchester, DC 67237",10.06,865
+551,640,879,2020-12-25,10,413.5,PayPal,"3642 Johnson Cliff
+Reedside, IL 61332","712 Reed Cliff Suite 913
+Brookeland, CT 25089",23.08,539
+315,927,169,2023-02-17,6,1284.33,Bank Transfer,"Unit 2481 Box 0013
+DPO AA 95741","930 Stacey Heights Apt. 506
+New Shelley, NH 71822",46.66,854
+624,892,872,2023-09-16,3,1288.94,Credit Card,"984 Blankenship Groves Suite 582
+Marcport, DC 70875","54678 Richardson Lake
+Jamesmouth, KY 89154",95.84,658
+69,353,362,2021-07-03,7,945.73,Bank Transfer,"66934 Anthony Flats Suite 086
+Kimberlyburgh, NJ 71981","533 Christopher Dam
+Kellyfurt, WI 13639",0.78,333
+274,696,615,2023-03-12,2,674.65,Bank Transfer,"16327 Daniel Meadow
+Lake Mary, MN 88459","660 Miller Turnpike
+Lake Williamfurt, ME 41273",80.62,294
+238,299,57,2020-07-27,8,99.54,Credit Card,"31803 Fuller Flats Suite 758
+Loriport, OH 30343","6503 Rice Tunnel Apt. 485
+West Nathaniel, GA 90098",75.86,120
+657,931,816,2024-04-20,9,1599.76,PayPal,"47158 Heather Shore Apt. 328
+Roberthaven, OR 11792","5395 Gutierrez Lakes
+New Leslie, CO 97836",13.11,868
+119,498,564,2021-12-24,2,1254.01,PayPal,"1589 Smith Spur Apt. 083
+West Mary, WV 15617","790 Mark Tunnel Apt. 958
+West Jennifer, IL 87981",37.64,130
+680,696,504,2021-12-01,8,416.11,Credit Card,"2934 Steven Camp
+Port Kimberly, CO 86654","Unit 1983 Box 7306
+DPO AE 13297",24.5,38
+533,892,175,2022-01-19,8,727.91,PayPal,"7004 Hall Radial
+Brownland, MO 39606","7568 Mendez Ways Apt. 706
+Vargaston, NM 44708",1.12,188
+900,299,57,2024-01-02,10,112.46,Credit Card,"039 Robinson Well Suite 194
+Floresfurt, DC 56242","45029 Megan Ridges Suite 402
+Port Sylviaburgh, WI 07679",99.83,133
+667,927,58,2021-10-09,3,1979.83,Credit Card,"806 Cody Hollow
+Lake Erin, MT 70287","99903 Barton Valleys
+Deniseborough, CO 53168",55.47,745
+779,892,48,2023-04-12,4,1836.1,Credit Card,"PSC 1827, Box 5432
+APO AE 48477","USCGC Blankenship
+FPO AE 04528",81.23,249
+329,353,991,2021-04-21,2,1948.19,PayPal,"382 Janet Drive Suite 329
+North Josephville, WA 67906","Unit 7489 Box 3267
+DPO AP 12199",23.6,745
+784,116,51,2020-09-21,9,1291.29,Bank Transfer,"46942 Steven Gardens
+Port Jessica, IN 12391","057 Jessica Camp Suite 150
+East Suzanne, CA 76875",71.86,479
+500,843,523,2023-10-20,5,1276.02,Bank Transfer,"Unit 2892 Box 3521
+DPO AE 38839","PSC 6634, Box 9309
+APO AA 14272",7.75,333
+536,433,454,2024-01-17,3,1837.44,Bank Transfer,"1092 Peterson Inlet Apt. 792
+Hillfurt, OR 17382","51655 Sandra Fork Apt. 771
+Elizabethview, MI 74784",56.49,956
+738,927,454,2023-03-19,6,653.09,Credit Card,"61597 Hammond Wall Suite 141
+Lake Carlyland, ID 98477","30127 Emily Valleys Apt. 776
+Claudiaberg, MO 04698",64.22,868
+145,498,615,2020-09-07,8,1573.74,Bank Transfer,"25730 Hendricks Crescent Apt. 072
+Hopkinsside, MI 84544","884 Martinez Causeway
+Scottview, AR 95903",14.47,462
+509,353,914,2024-06-27,3,1123.42,Credit Card,"627 Reynolds Burgs Suite 499
+West Elizabeth, NE 13887","030 Julia Ports Suite 166
+Lawsonchester, ME 97463",65.4,335
+361,251,664,2023-02-01,1,678.88,Bank Transfer,"USNS Ortega
+FPO AE 88721","697 Arellano Rapids
+New Deborahview, MA 87457",88.77,539
+992,251,725,2021-06-15,8,1839.28,Bank Transfer,"16221 Tyler Court Apt. 484
+Watsonland, IN 89992","0218 Danielle Forges Apt. 901
+Lake Patrickport, ID 66259",19.03,853
+437,640,991,2023-08-25,9,933.54,Credit Card,"770 Robert Plain
+Matthewside, RI 62901","715 Nichols Plaza
+Port Brian, OR 98981",65.49,98
+619,927,48,2022-09-04,8,643.73,PayPal,"USNS Lee
+FPO AA 39039","367 Escobar Hills
+Port Joshua, SD 09187",50.63,403
+734,799,752,2023-12-04,8,1232.79,Credit Card,"133 Mark Fords Apt. 116
+Karamouth, FL 84193","77010 Cory Island Apt. 564
+West Jared, ME 45200",29.98,294
+142,640,58,2021-03-27,1,968.53,Bank Transfer,"68991 Michael Glens
+Lambertport, WI 84572","914 Sabrina Meadows
+South Davidland, WY 52017",28.74,957
+651,251,831,2023-10-29,1,1700.09,Bank Transfer,"PSC 2308, Box 5678
+APO AP 60438","739 Matthew Mission Apt. 097
+Simmonsstad, CT 87643",98.89,967
+864,173,768,2020-04-03,2,165.99,Credit Card,"25868 Fisher Isle
+North Billymouth, AZ 23405","PSC 0678, Box 0478
+APO AE 53741",42.1,220
+893,498,587,2023-09-20,10,627.18,Bank Transfer,"USS Burns
+FPO AA 91270","50553 Jackson Parkway
+Allenmouth, RI 59703",44.07,988
+280,251,444,2022-01-16,5,240.81,PayPal,"436 Castillo Creek Suite 783
+Robertsview, MT 14379","8604 Marshall Parkway
+East Jeffchester, ND 82519",72.38,38
+547,640,137,2024-05-03,1,1971.78,PayPal,"9688 David Drive Suite 424
+Martinstad, WY 79054","055 Charles Squares
+New Amandastad, MI 40277",5.86,23
+599,927,986,2024-04-12,2,1969.85,Bank Transfer,"3138 Patterson Well Suite 930
+North Chelseaview, NE 61623","1063 Lyons Gateway
+West Kimberly, MS 12230",96.49,18
+753,251,564,2023-06-03,6,1783.36,Credit Card,"92639 Houston Orchard
+South Richard, NY 87984","627 Chung Ferry
+New Monica, NE 29698",46.94,293
+961,927,436,2022-02-07,9,787.15,Credit Card,"790 Anthony Brooks Apt. 059
+Craigborough, TX 27150","915 Farley Roads
+Francesfort, ME 43034",61.02,868
+684,173,879,2023-07-24,10,530.89,Bank Transfer,"0888 Daniel Ports
+Christopherberg, HI 50412","973 Edward Forest
+Suttonmouth, OK 43024",41.47,865
+235,299,337,2022-11-28,10,1737.7,Credit Card,"98481 Steven Plain Apt. 591
+Port Dawn, FL 32618","126 Debbie Views
+Thorntonhaven, IA 14093",19.12,574
+167,843,787,2023-10-27,7,1140.27,Credit Card,"2361 William Turnpike
+Bryanborough, NV 77365","89395 Gregory Island
+Pruittland, IA 33100",3.23,809
+24,433,725,2022-04-23,7,162.83,PayPal,"230 Beck Shore Apt. 735
+Marilynstad, AZ 09159","0163 Hudson Drive Apt. 123
+Elizabethside, MN 35371",44.04,906
+582,116,391,2024-06-24,9,1181.05,Bank Transfer,"48391 Oneill Fields
+Bonillachester, VT 21593","0983 Erin Points Suite 077
+Tammyton, AL 33037",59.33,441
+635,433,638,2022-12-27,1,147.43,Bank Transfer,"72823 Holt Walk Apt. 854
+Marymouth, MD 57391","7866 Dustin Ports Apt. 180
+Susanland, KY 90254",11.42,493
+532,931,57,2020-10-10,8,559.53,Bank Transfer,"9019 Jones Mission
+West Kristinaport, RI 41498","2140 Reynolds Union
+Waltersside, WV 42435",35.99,686
+916,433,252,2021-08-22,8,1185.51,Bank Transfer,"USCGC Martinez
+FPO AE 03798","7536 Frank Views
+Lake Sabrinatown, KY 78439",95.97,321
+807,173,932,2021-12-20,1,528.78,PayPal,"5741 Pamela Manor Apt. 547
+Stevenshire, ME 66057","266 Brian Burg
+West Jared, UT 07700",72.39,30
+123,251,872,2020-04-04,1,1638.99,Credit Card,"86969 David Harbors
+Floresmouth, NC 65559","2060 Richardson Brook
+Boonemouth, ID 62558",71.67,539
+544,843,56,2023-02-10,6,1903.84,Credit Card,"74091 Megan Causeway
+West Kenneth, NJ 57567","0774 Steven Court
+Powersstad, SD 98820",57.44,944
+840,927,72,2020-04-22,3,689.32,Bank Transfer,"13994 Dorothy Forks Apt. 664
+Rochaport, KS 63517","57284 Katie Stream Suite 144
+Tylerchester, CA 74066",91.99,865
+923,498,917,2023-10-28,7,359.47,Bank Transfer,"5154 Santiago Islands Apt. 668
+Port Johnstad, IA 72444","02336 Jonathan Ramp
+Theresaland, KY 22739",88.43,854
+771,892,181,2024-04-25,10,816.5,Bank Transfer,"811 Keith Crossing Apt. 984
+New Hector, VA 19462","416 Booth Springs Apt. 707
+South Joshuatown, VA 88407",58.11,257
+411,927,57,2023-02-09,7,436.68,Credit Card,"PSC 2814, Box 3508
+APO AP 78314","046 Allen Isle
+West Samuel, WI 94287",27.28,827
+296,116,964,2020-02-08,10,1072.56,Credit Card,"Unit 1650 Box 8825
+DPO AA 61900","9186 Adam Parkway Suite 585
+Alejandroview, NJ 64690",20.02,135
+512,433,277,2023-07-09,6,1913.92,PayPal,"3007 Raymond Fields Apt. 199
+Merrittstad, VT 55697","948 Doris River
+West Charlesfurt, NY 50808",66.41,553
+975,843,416,2022-09-09,2,1737.04,Bank Transfer,"92422 Scott Extension
+Port Elizabeth, MA 13093","2158 Jay Keys
+Brendabury, NM 05412",35.0,320
+378,640,311,2020-09-17,4,1004.67,Credit Card,"5813 Deborah Ridges Apt. 930
+Rebekahview, NJ 41640","6829 Brian Court
+North Johnville, CA 59919",8.26,403
+47,353,286,2024-06-30,9,992.35,Credit Card,"367 Gillespie Cliff
+Jacksonbury, KY 20940","113 Mark Turnpike Suite 063
+North Meghan, DC 58158",72.11,766
+828,696,436,2024-07-05,1,1853.23,PayPal,"Unit 4939 Box 6306
+DPO AE 69674","49775 Wood Landing
+North Jennifer, IA 64021",31.33,257
+603,353,51,2021-03-15,1,1572.08,Credit Card,"6326 Matthew Groves Suite 754
+Nguyenport, NJ 73595","49742 Humphrey Drive
+Ramosberg, WY 35805",27.99,32
+934,892,885,2024-05-23,8,1868.85,Bank Transfer,"04119 Mark Ramp
+South Pamela, OK 60199","030 Mullins Alley
+Cookmouth, GA 10996",83.53,333
+690,498,725,2020-04-27,4,704.13,Bank Transfer,"049 Susan Mountains Apt. 882
+South Bruce, DC 83173","50573 Amber Islands Apt. 931
+East Patrickborough, VA 06974",20.56,462
+549,843,48,2020-02-09,9,890.84,PayPal,"4306 Johnson Glens
+Hillfort, ID 80478","28537 Haynes Mission Apt. 083
+East Tammy, IL 29652",13.54,285
+907,299,416,2022-11-02,9,54.24,Credit Card,"13144 Fernando Shore
+Sandovalhaven, GA 43878","7147 Mitchell Expressway Apt. 188
+South Kevinchester, ND 99469",1.61,61
+489,672,10,2020-12-29,9,1498.37,Bank Transfer,"8615 Michael Via Suite 300
+North Laurachester, MD 87222","561 Angela Rue Suite 223
+North Antonio, OH 33754",16.86,868
+390,931,337,2021-05-29,5,1019.54,PayPal,"908 Miller Plaza Suite 613
+Reneeview, AR 38686","1120 Hudson Common Apt. 738
+Leachchester, VT 30933",15.02,426
+729,843,638,2021-12-02,4,1303.5,PayPal,"051 Lewis Cliff
+Paulstad, NE 88721","9111 James Island
+Olivertown, VA 70132",9.06,809
+530,843,615,2022-09-27,3,139.65,PayPal,"093 Weiss Forest
+South Douglasshire, MN 20277","Unit 0692 Box 6030
+DPO AE 01565",8.27,38
+808,843,652,2020-05-16,9,566.43,PayPal,"3985 Doris Inlet Apt. 587
+Port Anthonyborough, NY 07041","USCGC Bowman
+FPO AP 72268",83.37,688
+987,433,165,2020-01-15,2,1662.84,Bank Transfer,"2309 Stephen Meadow Apt. 562
+Brendaside, NC 44067","827 Burke Crescent
+Johnsonfurt, TN 41479",23.98,135
+198,299,831,2023-11-17,8,763.15,Credit Card,"38551 Rice Drive
+New Richardville, SC 52101","6119 Laurie Prairie Suite 489
+South Jessica, RI 48419",99.34,30
+400,892,725,2021-08-23,6,1243.1,Bank Transfer,"183 Nicholas Knoll
+Vegamouth, MI 88736","9160 Weaver Prairie
+Sydneyberg, NJ 54100",6.35,360
+134,892,872,2020-03-01,10,1276.98,Credit Card,"120 Daniel Pike
+Port Mark, TX 22277","294 Seth Mount Apt. 062
+Scottmouth, KS 98004",66.96,260
+104,799,56,2023-12-17,8,877.5,PayPal,"26639 Lopez Cove Suite 761
+Ronaldborough, OR 86251","9592 Jackson Spur
+Oconnorberg, AZ 73813",49.03,628
+355,299,64,2020-04-22,2,1310.42,Credit Card,"560 Evans Hill
+Haleybury, MT 13120","65369 Bryant Parks Apt. 969
+West Elizabeth, WI 66758",17.92,809
+959,640,565,2020-06-13,2,348.58,PayPal,"6535 Lopez Brook Suite 868
+Michaelton, AZ 46110","175 Dunn Road
+Port Michellefurt, WI 02146",1.29,566
+476,931,101,2020-01-23,7,479.96,Credit Card,"59639 Derrick Mount Apt. 962
+Port Johntown, RI 15318","94768 Mallory Village
+South Edgarton, OR 50276",37.2,441
+922,353,311,2020-11-08,10,1692.6,Credit Card,"802 Laura Ports
+East Joshua, HI 56652","PSC 5525, Box 1409
+APO AP 39240",8.95,909
+720,843,919,2023-12-21,9,1793.77,Bank Transfer,"13993 Smith Extensions
+Christineborough, WI 47942","1465 Johnson Circles
+South Dana, PA 48292",68.87,465
+442,299,585,2022-10-02,6,1637.66,Bank Transfer,"773 Jason Garden
+Davidbury, WV 60601","02162 Christopher Fort Suite 096
+West Dustin, MD 86530",32.1,485
+17,843,787,2022-07-12,10,128.71,Bank Transfer,"0732 Joyce Mills Apt. 501
+South Saraland, KS 79910","2887 Hahn Brook Suite 070
+North Kathryn, WA 03684",3.17,491
+195,353,579,2020-06-26,6,1032.54,Credit Card,"314 Nguyen Shoal
+Lake Leslie, SC 57121","42357 Carly Fork
+West Rebecca, AR 84747",97.08,333
